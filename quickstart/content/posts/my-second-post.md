@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-09-16T12:29:47-07:00
 title = "Welcome to Git Hell"
 description = "documenting my (mis) adventures in trying to set up a GitHub repo"
