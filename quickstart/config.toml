@@ -1,4 +1,4 @@
-baseURL = 'hindu-steve-ramblings.netlify.app'
+baseURL = ''
 languageCode = 'en-us'
 title = 'My Skills Assessment 2021 Blog'
 theme = "hugo-coder"
